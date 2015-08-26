@@ -1,0 +1,7 @@
+{
+  "name": "My badge name",
+  "description": "This is my first badge",
+  "image": "https://lakedevo.ryerson.ca/badge/lorem/badge.png",
+  "criteria": "https://lakedevo.ryerson.ca/badge/lorem/criteria.txt",
+  "issuer": "https://lakedevo.ryerson.ca/badge/issuer.json"
+}

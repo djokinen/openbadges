@@ -1,0 +1,14 @@
+{
+  "uid": "djokinen",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "djokinen@ryerson.ca"
+  },
+  "issuedOn": "2015-08-24T17:35:06.002Z",
+  "badge": "https://lakedevo.ryerson.ca/badge/lorem/badge.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://lakedevo.ryerson.ca/badge/lorem/assertion_01.json"
+  }
+}

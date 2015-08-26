@@ -1,0 +1,38 @@
+﻿body {
+	font-family: arial,sans-serif;
+}
+
+label {
+	display: block;
+	margin-top: 0.5em;
+}
+
+textarea,
+input[type=url],
+input[type=text] {
+	width: 50%;
+}
+
+
+/* START: TABLES */
+table {
+	width: 100%;
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+thead tr {
+	background-color: #000;
+	color: #fff;
+}
+
+tbody tr:nth-child(even) {
+	background-color: #eee;
+}
+
+th, td {
+	vertical-align: middle;
+	border: 1px solid #999;
+	padding: 7px;
+}
+/* END:TABLES */

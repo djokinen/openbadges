@@ -1,0 +1,7 @@
+{
+  "name": "Speed King",
+  "description": "Ride for 40kph for at least 1km",
+  "image": "https://lakedevo.ryerson.ca/badge/speedking/badge.png",
+  "criteria": "https://lakedevo.ryerson.ca/badge/speedking/criteria.txt",
+  "issuer": "https://lakedevo.ryerson.ca/badge/issuer.json"
+}
